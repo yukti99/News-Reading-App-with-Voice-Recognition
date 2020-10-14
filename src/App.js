@@ -9,7 +9,7 @@ import useStyles from './style.js';
 
 
 // GET YOUR ALAN KEY TO USE THIS AMAZING VOICE ASSISTANT FROM alan.app.com
-const alanKey = '330b5b9a358c62cd63a5884a4e36178e2e956eca572e1d8b807a3e2338fdd0dc/stage';
+const alanKey = '';
 
 const App = () => {
     const [newsArticles, setNewsArticles] = useState([]);
