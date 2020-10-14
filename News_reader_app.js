@@ -1,7 +1,7 @@
 intent('What does this app do?','What can I do here?',reply('This is a News Reading App.'));
 
 
-/* REGISTER WITH ALAN AI AND GET API KEY FOR VOICE RECOGNITION ALAN AI BOT */
+/* REGISTER WITH newsapi.org TO GET NEWS API KEY */
 const API_KEY = '';
 let savedArticles = [];
 
