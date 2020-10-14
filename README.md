@@ -5,7 +5,7 @@ This React app is built using ALAN AI Voice-recognition bot. In the news applica
 ![](src/images/news_app.PNG)
 ![](src/images/articles.PNG)
 
-Reference:
+References:
 
 https://www.youtube.com/watch?v=rqw3OftE5sA&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=3
 
